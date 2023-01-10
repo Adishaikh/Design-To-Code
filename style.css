@@ -167,13 +167,6 @@ header{
     .main--ski{
         background-position: left bottom;
     }
-    @media (min-width: 1200px){
-        .main--ski{
-            background-position: center right;
-        }
-    }
-
-    /*header*/
     @media (min-width: 1000px){
         header{
             display: grid;
@@ -197,6 +190,11 @@ header{
             justify-self: end;
 
             margin-right: 3em;
+        }
+    }
+    @media (min-width: 1200px){
+        .main--ski{
+            background-position: center right;
         }
     }
 }
