@@ -34,7 +34,6 @@ header{
     justify-content: space-between;
 
     padding: 1em;
-    /*margin-top: 1em;*/
 
     list-style-type: none;
     
@@ -112,7 +111,7 @@ header{
     padding: 3em 1em 5em;
 }
 .main--ski{
-    background-image: url(../img/sebastian-staines-xZIFEPtRsRI-unsplash\ 1.png);
+    background-image: url(img/sebastian-staines-xZIFEPtRsRI-unsplash\ 1.png);
     background-size: cover;
 }
 .main_title{
